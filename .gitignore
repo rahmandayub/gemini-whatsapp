@@ -32,8 +32,8 @@ build/
 tmp/
 temp/
 
-# WwebJS Auth
-.wwebjs_auth
+# WwebJS Auth and cache
+.wwebjs*
 
 # Package lock file
 package-lock.json
